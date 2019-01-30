@@ -14,3 +14,5 @@ Select the project by selecting the directory `Roll-Ball-Unity`
 #### Play the Game
 
 This repo also includes a macOS build of the game accessible under the `Builds` directory
+
+![Image description](./images/ScreenShot.png)
